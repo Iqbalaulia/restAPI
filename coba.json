@@ -1,0 +1,14 @@
+{
+    "nama": "Muhammad Iqbal Aulia Rafi",
+    "umur": 21,
+    "NIM": "16410100012",
+    "lulus": true,
+    "hobby": ["coding",
+        "gamming"
+    ],
+
+    "pembimbing": {
+        "pembimbing1": "Anjik Sukmaaji",
+        "pembimbing2": "Vivine"
+    }
+}
