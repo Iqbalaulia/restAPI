@@ -8,6 +8,10 @@ $mahasiswa = [
 ];
 
 // Menampilkan array assosiatif
-var_dump($mahasiswa);
+// var_dump($mahasiswa);
 
+
+// Menampilkan array assosiatif dalam bentuk JSON
+$data = json_encode($mahasiswa);
+echo $data;
 ?>
