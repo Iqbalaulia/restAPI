@@ -8,6 +8,7 @@ $mahasiswa = json_decode($data, true);
 // Mengambil JSON dari file orang lain
 // $data = file_get_contents('http://....');
 
-
+var_dump($mahasiswa);
+echo $mahasiswa[0]['pembimbing']['pembimbing1'];
 
 ?>
